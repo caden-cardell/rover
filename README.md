@@ -7,5 +7,5 @@ Project requirements:
 - Latency >100ms
 - Works on WAN
 - Battery powered for +20 min
-- >30 fps video
+- Have >30 fps video
 - Camera roll/pitch/yaw must match the headset orientation
