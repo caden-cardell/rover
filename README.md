@@ -9,3 +9,4 @@ Project requirements:
 - Battery powered for +20 min
 - Have >30 fps video
 - Camera roll/pitch/yaw must match the headset orientation
+- 720p resolution
